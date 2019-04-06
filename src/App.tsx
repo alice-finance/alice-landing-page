@@ -10,8 +10,6 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import New from "./components/New";
-import ScreenShots from "./components/Secreenshots";
-import Timeline from "./components/Timeline";
 
 class App extends Component {
     public render() {
@@ -22,10 +20,8 @@ class App extends Component {
                 <main id="content-main" className="content-main">
                     <New />
                     <Features />
-                    <ContentRight />
                     <ContentLeft />
-                    <ScreenShots />
-                    <Timeline />
+                    <ContentRight />
                     <Faq />
                     <DownloadApp />
                 </main>
