@@ -1,28 +1,38 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component, Fragment } from "react";
+
+import "./App.css";
+import ContentLeft from "./components/ContentLeft";
+import ContentRight from "./components/ContentRight";
+import DownloadApp from "./components/DownloadApp";
+import Faq from "./components/Faq";
+import Features from "./components/Features";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import NavBar from "./components/NavBar";
+import New from "./components/New";
+import ScreenShots from "./components/Secreenshots";
+import Timeline from "./components/Timeline";
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+    public render() {
+        return (
+            <Fragment>
+                <NavBar />
+                <Header />
+                <main id="content-main" className="content-main">
+                    <New />
+                    <Features />
+                    <ContentRight />
+                    <ContentLeft />
+                    <ScreenShots />
+                    <Timeline />
+                    <Faq />
+                    <DownloadApp />
+                </main>
+                <Footer />
+            </Fragment>
+        );
+    }
 }
 
 export default App;
