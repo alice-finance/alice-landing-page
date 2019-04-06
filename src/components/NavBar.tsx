@@ -43,23 +43,15 @@ class NavBar extends Component {
                                 </button>
                                 <ul className="nav navbar-nav mr-6 mr-lg-0">
                                     <li className="nav-item">
-                                        <a className="nav-link px-0 px-lg-3 px-xl-5 active" data-scroll="#home">
+                                        <a className="nav-link px-0 px-lg-3 px-xl-5 active" href="/">
                                             Home <span className="sr-only">(current)</span>
                                         </a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link px-0 px-lg-3 px-xl-5" data-scroll="#features">
-                                            Features
-                                        </a>
-                                    </li>
-                                    <li className="nav-item">
-                                        <a className="nav-link px-0 px-lg-3 px-xl-5" data-scroll="#pricing">
-                                            Pricing
-                                        </a>
-                                    </li>
-                                    <li className="nav-item">
-                                        <a className="nav-link px-0 px-lg-3 px-xl-5" data-scroll="#contact_us">
-                                            Contact Us
+                                        <a
+                                            className="nav-link px-0 px-lg-3 px-xl-5"
+                                            href="https://medium.com/alice-network">
+                                            Blog
                                         </a>
                                     </li>
                                 </ul>
