@@ -2241,7 +2241,7 @@ input[type="button"].btn-block {
     z-index: 1000;
     display: none;
     float: left;
-    min-width: 10rem;
+    min-width: 0;
     padding: 0.5rem 0;
     margin: 0.125rem 0 0;
     font-size: 1rem;
@@ -14446,7 +14446,7 @@ a.social-youtube:hover {
     transition-property: color, border-color, background-color; }
 .navbar-nav > .nav-link,
 .navbar-nav > .nav-item > .nav-link {
-    font-size: 0.8rem;
+    font-size: 1rem;
     line-height: 3.625rem; }
 
 .navbar-toggler:focus {

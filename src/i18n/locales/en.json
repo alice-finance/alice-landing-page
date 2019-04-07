@@ -1,0 +1,18 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "ok": "OK",
+        "done": "Done",
+        "warning": "Warning",
+        "copy": "Copy",
+        "reset": "Reset",
+        "goToLink": "Go to link"
+    },
+    "header": {
+        "title": "Get Alice Now!",
+        "lead1": "Most effective way to increase your crypto assets",
+        "lead2": "Save crypto & Earn 7% of interest annually",
+        "appStore": "App Store",
+        "playStore": "Play Store"
+    }
+}

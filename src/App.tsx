@@ -11,24 +11,20 @@ import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import New from "./components/New";
 
-class App extends Component {
-    public render() {
-        return (
-            <Fragment>
-                <NavBar />
-                <Header />
-                <main id="content-main" className="content-main">
-                    <New />
-                    <Features />
-                    <ContentLeft />
-                    <ContentRight />
-                    <Faq />
-                    <DownloadApp />
-                </main>
-                <Footer />
-            </Fragment>
-        );
-    }
-}
+const App = () => (
+    <Fragment>
+        <NavBar />
+        <Header />
+        <main id="content-main" className="content-main">
+            <New />
+            <Features />
+            <ContentLeft />
+            <ContentRight />
+            <Faq />
+            <DownloadApp />
+        </main>
+        <Footer />
+    </Fragment>
+);
 
 export default App;

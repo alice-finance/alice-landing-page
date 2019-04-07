@@ -82,8 +82,8 @@
     position: relative;
     overflow: hidden;
     height: 100vh; }
-.header .header-hero:not(.hero-solid) {
-    background: #8315d6 url(../img/header/header__bg.png) no-repeat center bottom/cover; }
+/*.header .header-hero:not(.hero-solid) {*/
+/*    background: #8315d6 url(../img/header/header__bg.png) no-repeat center bottom/cover; }*/
 .header .header-hero .device-hero {
     max-width: 20rem;
     width: 100%; }
