@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 
 const Header = () => {
-    const { t } = useTranslation("header");
+    const { t, i18n } = useTranslation("header");
     return (
         <header id="home" className="header" data-style="2">
             <div className="header-hero d-flex align-items-center text-light" data-gradient="1">
@@ -33,7 +33,11 @@ const Header = () => {
                             </div>
                         </div>
                         <div className="d-none d-lg-block col-md-4 text-center overflow-hidden">
-                            <img src="assets/img/app/device-hero.png" className="device-hero" alt="Device" />
+                            <img
+                                src={`assets/img/app/device-hero-${i18n.language}.png`}
+                                className="device-hero mt-6"
+                                alt="Device"
+                            />
                         </div>
                     </div>
                 </div>
