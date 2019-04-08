@@ -13,7 +13,7 @@ const LanguageSwitch = () => {
                 data-toggle="dropdown"
                 aria-haspopup="true"
                 aria-expanded="false">
-                {i18n.language.toUpperCase()}
+                {i18n.language.split("-")[0].toUpperCase()}
             </button>
             <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <button className="dropdown-item" onClick={onChangeLanguage("en")}>

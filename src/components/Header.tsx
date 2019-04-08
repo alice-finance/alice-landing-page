@@ -34,7 +34,7 @@ const Header = () => {
                         </div>
                         <div className="d-none d-lg-block col-md-4 text-center overflow-hidden">
                             <img
-                                src={`assets/img/app/device-hero-${i18n.language}.png`}
+                                src={`assets/img/app/device-hero-${i18n.language.split("-")[0]}.png`}
                                 className="device-hero mt-6"
                                 alt="Device"
                             />
