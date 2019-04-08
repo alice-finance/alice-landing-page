@@ -16,14 +16,14 @@
         "playStore": "Play Store"
     },
     "services": {
-        "title": "특징",
-        "service1.title": "Exchange - 0% Fee",
-        "service1.desc": "Have you paid unfair fees for crypto exchanges? You don't need to anymore.",
-        "service2.title": "Instant Loan - 3 seconds",
-        "service2.desc": "Borrow stable coins instantly with the lowest interest rate. Coins are offered instantly.",
-        "service3.title": "Savings - 7% APR",
-        "service3.desc": "Deposit stable coins and get annual interest of 7% continuously.",
-        "service4.title": "Custody - Decentralized",
-        "service4.desc": "Only YOU can get access to your assets so they belong to you at any time."
+        "title": "서비스",
+        "service1.title": "거래소 - 0% 수수료",
+        "service1.desc": "이제까지 수수료를 내고 거래하셨나요? 이제는 무료로 거래하세요!",
+        "service2.title": "즉시 대출 - 3초",
+        "service2.desc": "스테이블 코인을 가장 낮은 수준의 이자로 빌리세요. 코인은 신청 즉시 지급됩니다.",
+        "service3.title": "저축 - 7% APR",
+        "service3.desc": "스테이블 코인을 저축하고 연이율 7%의 이자를 꾸준히 지급받으세요!",
+        "service4.title": "커스토디 - 탈중앙화",
+        "service4.desc": "본인만의 본인의 자산에 접근할 수 있고 소유권은 다른 누구에게도 이전되지 않습니다."
     }
 }

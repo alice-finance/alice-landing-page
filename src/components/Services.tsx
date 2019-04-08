@@ -19,8 +19,8 @@ const Services = () => {
                                             <img src="assets/img/icon/analytic.png" alt="Icon" />
                                         </div>
                                     </div>
-                                    <h6 className="wn__title">{t("service.title")}</h6>
-                                    <p>{t("service.desc")}</p>
+                                    <h6 className="wn__title">{t("service1.title")}</h6>
+                                    <p>{t("service1.desc")}</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3 mb-7 mb-lg-0">
@@ -30,8 +30,8 @@ const Services = () => {
                                             <img src="assets/img/icon/loan.png" alt="Icon" />
                                         </div>
                                     </div>
-                                    <h6 className="wn__title">{t("service.title")}</h6>
-                                    <p>{t("service.desc")}</p>
+                                    <h6 className="wn__title">{t("service2.title")}</h6>
+                                    <p>{t("service2.desc")}</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3 mb-7 mb-md-0">
@@ -41,8 +41,8 @@ const Services = () => {
                                             <img src="assets/img/icon/savings.png" alt="Icon" />
                                         </div>
                                     </div>
-                                    <h6 className="wn__title">{t("service.title")}</h6>
-                                    <p>{t("service.desc")}</p>
+                                    <h6 className="wn__title">{t("service3.title")}</h6>
+                                    <p>{t("service3.desc")}</p>
                                 </div>
                             </div>
                             <div className="col-md-6 col-lg-3">
@@ -52,8 +52,8 @@ const Services = () => {
                                             <img src="assets/img/icon/self-custody.png" alt="Icon" />
                                         </div>
                                     </div>
-                                    <h6 className="wn__title">{t("service.title")}</h6>
-                                    <p>{t("service.desc")}</p>
+                                    <h6 className="wn__title">{t("service4.title")}</h6>
+                                    <p>{t("service4.desc")}</p>
                                 </div>
                             </div>
                         </div>
