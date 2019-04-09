@@ -206,7 +206,7 @@
         height: 6.5rem; } }
 /* features */
 .features__section {
-    background: #8315d6 url(../img/features/features__bg.jpg); }
+    background: #8315d6; }
 .features__section .features_device__bg_wrapper {
     position: absolute;
     left: 0;

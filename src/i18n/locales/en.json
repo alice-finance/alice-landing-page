@@ -25,5 +25,13 @@
         "service3.desc": "Deposit stable coins and get annual interest of 7% continuously.",
         "service4.title": "Custody - Decentralized",
         "service4.desc": "Only YOU can get access to your assets so they belong to you at any time."
+    },
+    "features": {
+        "feature1.title": "Secured by blockchain",
+        "feature1.desc": "Alice is backed by its own blockchain. It protects your assets at the highest security level.",
+        "feature2.title": "Intuitive and convenient",
+        "feature2.desc": "It offers the best user experience for trading, borrowing and lending assets.",
+        "feature3.title": "Super performant",
+        "feature3.desc": "DPoS consensus algorithm, which operates Alice's blockchain, provides both security and performance."
     }
 }
