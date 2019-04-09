@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from "react";
 
 import "./App.css";
-import ContentLeft from "./components/ContentLeft";
-import ContentRight from "./components/ContentRight";
+import Content from "./components/ContentLeft";
+import ContentLeft from "./components/ContentRight";
 import DownloadApp from "./components/DownloadApp";
 import Faq from "./components/Faq";
 import Features from "./components/Features";
@@ -18,8 +18,8 @@ const App = () => (
         <main id="content-main" className="content-main">
             <Services />
             <Features />
+            <Content />
             <ContentLeft />
-            <ContentRight />
             <Faq />
             <DownloadApp />
         </main>

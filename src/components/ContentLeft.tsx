@@ -1,31 +1,27 @@
-import React, { Component } from "react";
+import React from "react";
+import { useTranslation } from "react-i18next";
 
-class ContentLeft extends Component {
-    public render() {
-        return (
-            <section className="content-section">
-                <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-lg-5 mr-auto overflow-hidden mb-8 mb-lg-0">
-                            <img src="assets/img/content/2.png" alt="Apps" />
-                        </div>
-                        <div className="col-lg-6">
-                            <h3 className="mb-4">Share your passion to the world</h3>
-                            <hr className="hr_theme ml-0 mr-auto" />
-                            <p className="mb-8">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a commodo enim. Integer
-                                sed maximus ligula. Vestibulum fermentum, purus sit amet aliquet molestie, tortor ante
-                                lobortis nisi, in bibendum ante purus eu ipsum.
-                            </p>
-                            <a href="#" className="btn btn-lg btn-round btn-primary">
-                                Get Start Now
-                            </a>
-                        </div>
+const ContentLeft = () => {
+    const { t } = useTranslation("contentLeft");
+    return (
+        <section className="content-section bg-gray">
+            <div className="container">
+                <div className="row align-items-center">
+                    <div className="col-lg-6 order-lg-2 mb-8 mb-lg-0">
+                        <img src="assets/img/content/savings.png" alt="Apps" />
+                    </div>
+                    <div className="col-lg-5 order-lg-1 mr-auto">
+                        <h3 className="mb-4">{t("title")}</h3>
+                        <hr className="hr_theme ml-0 mr-auto" />
+                        <p className="mb-8">{t("desc")}</p>
+                        <a href={"#download"} className="btn btn-lg btn-round btn-primary">
+                            {t("getStartNow")}
+                        </a>
                     </div>
                 </div>
-            </section>
-        );
-    }
-}
+            </div>
+        </section>
+    );
+};
 
 export default ContentLeft;
