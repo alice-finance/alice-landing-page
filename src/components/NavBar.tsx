@@ -36,8 +36,13 @@ const NavBar = () => (
                         </button>
                         <ul className="nav navbar-nav mr-6 mr-lg-0">
                             <li className="nav-item">
-                                <a className="nav-link px-0 px-lg-3 px-xl-5 active" href="/">
+                                <a className="nav-link px-0 px-lg-3 px-xl-5 active" href="#">
                                     Home <span className="sr-only">(current)</span>
+                                </a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link px-0 px-lg-3 px-xl-5" href={"#download"}>
+                                    Download
                                 </a>
                             </li>
                             <li className="nav-item">
