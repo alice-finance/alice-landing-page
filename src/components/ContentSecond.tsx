@@ -1,8 +1,8 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 
-const ContentRight = () => {
-    const { t } = useTranslation("contentRight");
+const ContentSecond = () => {
+    const { t } = useTranslation("contentSecond");
     return (
         <section className="content-section">
             <div className="container">
@@ -24,4 +24,4 @@ const ContentRight = () => {
     );
 };
 
-export default ContentRight;
+export default ContentSecond;

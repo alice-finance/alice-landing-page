@@ -34,14 +34,19 @@
         "feature3.title": "Super performant",
         "feature3.desc": "DPoS consensus algorithm, which operates Alice's blockchain, provides both security and performance."
     },
-    "contentLeft": {
+    "contentFirst": {
         "title": "Compound Savings of 7% APR",
         "desc": "Alice offers savings service to help you increase your assets most effectively. Deposit DAI stable coins and get 7% of APR every year. There's no limit to the amount of deposit and you can withdraw your savings at any time if you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Get Start Now"
     },
-    "contentRight": {
+    "contentSecond": {
         "title": "Instant Loan in 3 seconds",
         "desc": "With Alice, you can get an instant loan in less than 3 seconds. Deposit tokens that you believe whose price will increase as collateral. Get paid for your DAI stable coins and use it now!",
+        "getStartNow": "Get Start Now"
+    },
+    "contentThird": {
+        "title": "Exchange with ZERO fee",
+        "desc": "Are you still paying for fees while trading cryptocurrency? You don't have to anymore. Alice doesn't charge you fees. Trade with ZERO fee!",
         "getStartNow": "Get Start Now"
     }
 }

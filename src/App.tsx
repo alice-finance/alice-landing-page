@@ -1,8 +1,9 @@
-import React, { Component, Fragment } from "react";
+import React, { Fragment } from "react";
 
 import "./App.css";
-import Content from "./components/ContentLeft";
-import ContentLeft from "./components/ContentRight";
+import ContentFirst from "./components/ContentFirst";
+import ContentSecond from "./components/ContentSecond";
+import ContentThird from "./components/ContentThird";
 import DownloadApp from "./components/DownloadApp";
 import Faq from "./components/Faq";
 import Features from "./components/Features";
@@ -18,8 +19,9 @@ const App = () => (
         <main id="content-main" className="content-main">
             <Services />
             <Features />
-            <Content />
-            <ContentLeft />
+            <ContentFirst />
+            <ContentSecond />
+            <ContentThird />
             <Faq />
             <DownloadApp />
         </main>
