@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const Registration = () => {
     const { t } = useTranslation("subscription");
     return (
-        <section id="registration" className="newsletter__section content-section bg-white">
+        <section id="registration" className="newsletter__section content-section bg-white mt-8 mb-8">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 mb-6 mb-lg-0">
