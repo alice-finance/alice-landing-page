@@ -11,6 +11,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import Services from "./components/Services";
+import Registration from "./components/Registration";
 
 const App = () => (
     <Fragment>
@@ -22,8 +23,7 @@ const App = () => (
             <ContentFirst />
             <ContentSecond />
             <ContentThird />
-            <Faq />
-            <DownloadApp />
+            <Registration />
         </main>
         <Footer />
     </Fragment>

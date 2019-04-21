@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const ContentThird = () => {
     const { t } = useTranslation("contentThird");
     return (
-        <section className="content-section bg-gray">
+        <section id="exchange" className="content-section bg-gray">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-2 mb-8 mb-lg-0">

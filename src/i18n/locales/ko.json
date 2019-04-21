@@ -11,12 +11,13 @@
     "header": {
         "title": "암호화폐 자산 관리 앱, 앨리스",
         "lead1": "자산을 늘리는 가장 효과적인 방법",
-        "lead2": "암호화폐를 저축하고 연이율 8%를 가져가세요.",
+        "lead2": "암호화폐를 저축하고 연이율 8%를 지급받으세요. (얼리버드 등록 시)",
         "appStore": "App Store",
-        "playStore": "Play Store"
+        "playStore": "Play Store",
+        "earlyBirdRegistration": "지금 얼리버드 등록하기"
     },
     "services": {
-        "title": "서비스",
+        "title": "특징",
         "service1.title": "거래소 - 0% 수수료",
         "service1.desc": "이제까지 수수료를 내고 거래하셨나요? 이제는 무료로 거래하세요!",
         "service2.title": "저축 - 8% APR",
@@ -48,5 +49,11 @@
         "title": "거래소 (무료 수수료)",
         "desc": "아직도 수수료 내고 암호화폐 거래하세요? 앨리스에서는 수수료를 내지 않고도 사고 팔 수 있습니다. 더 이상 수수료를 지불하지 마세요. 무료로 거래하세요!",
         "getStartNow": "지금 시작하기"
+    },
+    "subscription": {
+        "title": "얼리버드 등록",
+        "desc": "지금 얼리버드로 등록하고 연이율 8% 저축의 혜택을 받으세요! 얼리버드 등록자에 한해서 6월 1일에 DAI 저축이 오픈됩니다.",
+        "enterYourEmail": "이메일을 입력하세요.",
+        "register": "등록하기"
     }
 }

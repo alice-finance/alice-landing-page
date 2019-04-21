@@ -11,12 +11,13 @@
     "header": {
         "title": "Alice for Crypto Finance",
         "lead1": "Most effective way to increase your crypto assets",
-        "lead2": "Save crypto & Earn annual interest of 8%",
+        "lead2": "Earn annual interest of 8% - ONLY FOR EARLY BIRDS!",
         "appStore": "App Store",
-        "playStore": "Play Store"
+        "playStore": "Play Store",
+        "earlyBirdRegistration": "Early Bird Registration"
     },
     "services": {
-        "title": "Services",
+        "title": "Features",
         "service1.title": "Exchange - 0% Fee",
         "service1.desc": "Have you paid unfair fees for crypto exchanges? You don't need to anymore.",
         "service2.title": "Savings - 8% APR",
@@ -48,5 +49,11 @@
         "title": "Exchange with ZERO fee",
         "desc": "Are you still paying for fees while trading cryptocurrency? You don't have to anymore. Alice doesn't charge you fees. Trade with ZERO fee!",
         "getStartNow": "Get Start Now"
+    },
+    "subscription": {
+        "title": "Early Bird Registration",
+        "desc": "Register now and get the benefit of savings of 8% ARP. DAI savings will open at JUNE 1st only for early birds.",
+        "enterYourEmail": "Enter your email",
+        "register": "Register"
     }
 }

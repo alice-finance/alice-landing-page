@@ -1,4 +1,6 @@
 import React from "react";
+// @ts-ignore
+import AnchorLink from "react-anchor-link-smooth-scroll";
 import { useTranslation } from "react-i18next";
 
 const Header = () => {
@@ -18,18 +20,12 @@ const Header = () => {
                                         {t("lead2")}
                                     </p>
                                 </div>
-                                <a href="#" className="btn-download btn btn-round btn-sm-block btn-light mr-6 my-3">
-                                    <span className="lead-4">
-                                        <i className="fab fa-apple" />
-                                    </span>
-                                    <span className="lead-2 ml-2">{t("appStore")}</span>
-                                </a>
-                                <a href="#" className="btn-download btn btn-round btn-sm-block btn-light mr-6 my-3">
-                                    <span className="lead-4">
-                                        <i className="fab fa-google-play" />
-                                    </span>
-                                    <span className="lead-2 ml-2">{t("playStore")}</span>
-                                </a>
+                                <AnchorLink
+                                    offset={74}
+                                    href={"#registration"}
+                                    className="btn-download btn btn-round btn-sm-block btn-primary mr-6 my-3">
+                                    <span className="lead-2 ml-2">{t("earlyBirdRegistration")}</span>
+                                </AnchorLink>
                             </div>
                         </div>
                         <div className="d-none d-lg-block col-md-4 text-center overflow-hidden">

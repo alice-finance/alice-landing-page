@@ -11,103 +11,56 @@ class Footer extends Component {
                                 <img src="assets/img/logo-light.png" alt="Logo" className="logo-light" />
                             </a>
                         </div>
+                        <div className="col-lg-4" />
                         <div className="col-6 col-lg-2">
-                            <h6 className="nav-title mb-4">Company</h6>
+                            <h6 className="nav-title mb-4">Home</h6>
                             <div className="nav flex-column">
-                                <a className="nav-link" href="#">
-                                    Freebies
+                                <a className="nav-link" href={"#feautres"}>
+                                    Features
                                 </a>
-                                <a className="nav-link" href="#">
-                                    Partners
+                                <a className="nav-link" href={"#savings"}>
+                                    Savings
                                 </a>
-                                <a className="nav-link" href="#">
-                                    Events
+                                <a className="nav-link" href={"#loan"}>
+                                    Loan
                                 </a>
-                                <a className="nav-link" href="#">
-                                    Assets
+                                <a className="nav-link" href={"#exchange"}>
+                                    Exchange
+                                </a>
+                                <a className="nav-link" href={"#registration"}>
+                                    Registration
                                 </a>
                             </div>
                         </div>
                         <div className="col-6 col-lg-2">
-                            <h6 className="nav-title mb-4">Learn</h6>
-                            <div className="nav flex-column">
-                                <a className="nav-link" href="#">
-                                    Fees
-                                </a>
-                                <a className="nav-link" href="#">
-                                    FAQ
-                                </a>
-                                <a className="nav-link" href="#">
-                                    Partnerships
-                                </a>
-                                <a className="nav-link" href="#">
-                                    Find a Store
-                                </a>
-                            </div>
+                            <h6 className="nav-title mb-4">More Info</h6>
                         </div>
-                        <div className="col-6 col-lg-2">
-                            <h6 className="nav-title mb-4">Communities</h6>
-                            <div className="nav flex-column">
-                                <a className="nav-link" href="#">
-                                    Developers
-                                </a>
-                                <a className="nav-link" href="#">
-                                    Brands
-                                </a>
-                                <a className="nav-link" href="#">
-                                    Investors
-                                </a>
-                                <a className="nav-link" href="#">
-                                    Vendors
-                                </a>
-                            </div>
-                        </div>
-                        <div className="col-lg-4">
+                        <div className="col-lg-2">
                             <div className="social-buttons text-lg-right lead-1">
-                                <a className="social-facebook" href="#">
-                                    <i className="fab fa-facebook-f" />
+                                <a className="social-telegram" href="https://t.me/alicenetwork" target="_blank">
+                                    <i className="fab fa-telegram" />
                                 </a>
-                                <a className="social-twitter" href="#">
-                                    <i className="fab fa-twitter" />
+                                <a className="social-github" href="https://github.com/alice-network" target="_blank">
+                                    <i className="fab fa-github" />
                                 </a>
-                                <a className="social-dribbble" href="#">
-                                    <i className="fab fa-dribbble" />
+                                <a className="social-medium" href="https://medium.com/alice-network" target="_blank">
+                                    <i className="fab fa-medium" />
                                 </a>
                             </div>
                         </div>
                     </div>
-                    <div className="row gutters-y mt-8 mt-lg-12 small">
+                    <div className="row gutters-y mt-2 mt-lg-4 small">
                         <div className="col-sm-9 col-lg-8">
+                            <span>© 2019 DNext Inc.</span>
+                        </div>
+                        <div className="col-sm-3 col-lg-4 d-flex align-items-center justify-content-sm-end">
                             <ul className="nav nav-small">
                                 <li>
-                                    <a href="#" className="nav-link">
-                                        Terms
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link">
-                                        Privacy
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link">
-                                        Policy & Safety
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link">
-                                        Send feedback
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" className="nav-link">
-                                        Test new features
+                                    <a href="mailto:support@dnext.co" className="nav-link">
+                                        support@dnext.co
                                     </a>
                                 </li>
                             </ul>
-                        </div>
-                        <div className="col-sm-3 col-lg-4 d-flex align-items-center justify-content-sm-end">
-                            <span>© 2019 ANKAA</span>
                         </div>
                     </div>
                 </div>

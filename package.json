@@ -8,12 +8,13 @@
     "@types/react": "16.8.12",
     "@types/react-dom": "16.8.3",
     "i18next": "^15.0.9",
+    "i18next-browser-languagedetector": "latest",
     "react": "^16.8.6",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.8.6",
     "react-i18next": "^10.6.1",
     "react-scripts": "2.1.8",
-    "typescript": "3.4.1",
-    "i18next-browser-languagedetector": "latest"
+    "typescript": "3.4.1"
   },
   "devDependencies": {
     "prettier": "^1.16.4",

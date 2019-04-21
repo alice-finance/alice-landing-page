@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const ContentSecond = () => {
     const { t } = useTranslation("contentSecond");
     return (
-        <section className="content-section">
+        <section id="loan" className="content-section">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 mr-auto overflow-hidden mb-8 mb-lg-0">

@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const Services = () => {
     const { t } = useTranslation("services");
     return (
-        <section className="wn__section content-section">
+        <section id="features" className="wn__section content-section">
             <div className="container">
                 <header className="section-header text-center">
                     <h2>{t("title")}</h2>

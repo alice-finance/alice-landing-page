@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 const Features = () => {
     const { i18n } = useTranslation("header");
     return (
-        <section id="features" className="features__section content-section">
+        <section className="features__section content-section">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-xl-5 col-lg-6 order-2 order-lg-1">
