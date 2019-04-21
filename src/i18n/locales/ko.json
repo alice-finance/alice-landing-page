@@ -55,5 +55,13 @@
         "desc": "지금 얼리버드로 등록하고 연이율 8% 저축의 혜택을 받으세요! 얼리버드 등록자에 한해서 6월 1일에 DAI 저축이 오픈됩니다.",
         "enterYourEmail": "이메일을 입력하세요.",
         "register": "등록하기"
+    },
+    "footer": {
+        "features": "특징",
+        "savings": "저축",
+        "loan": "대출",
+        "exchange": "거래소",
+        "registration": "얼리버드 등록",
+        "moreToCome": "준비 중.."
     }
 }

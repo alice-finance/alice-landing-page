@@ -55,5 +55,13 @@
         "desc": "Register now and get the benefit of savings of 8% ARP. DAI savings will open at JUNE 1st only for early birds.",
         "enterYourEmail": "Enter your email",
         "register": "Register"
+    },
+    "footer": {
+        "features": "Features",
+        "savings": "Savings",
+        "loan": "Loan",
+        "exchange": "Exchange",
+        "registration": "Registration",
+        "moreToCome": "More To Come"
     }
 }
