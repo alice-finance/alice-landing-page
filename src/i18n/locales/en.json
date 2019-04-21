@@ -9,9 +9,9 @@
         "goToLink": "Go to link"
     },
     "header": {
-        "title": "Get Alice Now!",
+        "title": "Alice for Crypto Finance",
         "lead1": "Most effective way to increase your crypto assets",
-        "lead2": "Save crypto & Earn annual interest of 7%",
+        "lead2": "Save crypto & Earn annual interest of 8%",
         "appStore": "App Store",
         "playStore": "Play Store"
     },
@@ -19,8 +19,8 @@
         "title": "Services",
         "service1.title": "Exchange - 0% Fee",
         "service1.desc": "Have you paid unfair fees for crypto exchanges? You don't need to anymore.",
-        "service2.title": "Savings - 7% APR",
-        "service2.desc": "Deposit stable coins and get annual interest of 7% continuously.",
+        "service2.title": "Savings - 8% APR",
+        "service2.desc": "Deposit stable coins and get annual interest of 8% continuously.",
         "service3.title": "Instant Loan - 3 seconds",
         "service3.desc": "Borrow stable coins instantly with the lowest interest rate. Coins are offered instantly.",
         "service4.title": "Custody - Decentralized",
@@ -35,8 +35,8 @@
         "feature3.desc": "DPoS consensus algorithm, which operates Alice's blockchain, provides both security and performance."
     },
     "contentFirst": {
-        "title": "Compound Savings of 7% APR",
-        "desc": "Alice offers savings service to help you increase your assets most effectively. Deposit DAI stable coins and get 7% of APR every year. There's no limit to the amount of deposit and you can withdraw your savings at any time if you want! (APR : Annual Percentage Rate)",
+        "title": "Compound Savings of 8% APR",
+        "desc": "Alice offers savings service to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw your savings at any time if you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Get Start Now"
     },
     "contentSecond": {

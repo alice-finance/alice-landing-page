@@ -41,11 +41,6 @@ const NavBar = () => (
                                 </a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link px-0 px-lg-3 px-xl-5" href={"#download"}>
-                                    Download
-                                </a>
-                            </li>
-                            <li className="nav-item">
                                 <a className="nav-link px-0 px-lg-3 px-xl-5" href="https://medium.com/alice-network">
                                     Blog
                                 </a>
