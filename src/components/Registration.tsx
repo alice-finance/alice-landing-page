@@ -11,31 +11,19 @@ const Registration = () => {
                         <h3 className="mb-4">{t("title")}</h3>
                         <p className="font-size-5 mb-0">{t("desc")}</p>
                     </div>
-                    <div className="col-lg-5 ml-auto">
-                        <form
-                            action="https://stibee.com/api/v1.0/lists/Q8Q6q_4AwSv2WgZ6xPN9v2hs0vY0/public/subscribers"
-                            method="POST"
-                            target="_blank"
-                            className="input-rounded"
-                            name="stb_subscribe_form"
-                            id="stb_subscribe_form"
-                            noValidate={true}>
-                            <div className="form-group input-group">
-                                <input
-                                    type="email"
-                                    className="form-control form-control-lg"
-                                    id="stb_email"
-                                    name="email"
-                                    placeholder={t("enterYourEmail")}
-                                />
-                                <div className="stb_form_msg_error" id="stb_email_error" />
-                                <div className="input-group-append ml-3">
-                                    <button className="btn btn-primary" id="stb_form_submit_button" type="submit">
-                                        {t("register")}
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
+                    <div className="col-lg-6 ml-auto">
+                        <iframe
+                            src={t("url")}
+                            style={{
+                                width: "100%",
+                                height: 640,
+                                frameBorder: 0,
+                                marginWidth: 0,
+                                marginHeight: 0,
+                                borderWidth: 0
+                            }}>
+                            로드 중...
+                        </iframe>
                     </div>
                 </div>
             </div>

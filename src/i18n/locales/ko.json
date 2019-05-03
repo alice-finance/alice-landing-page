@@ -9,12 +9,12 @@
         "goToLink": "링크로 이동"
     },
     "header": {
-        "title": "암호화폐 자산 관리 앱, 앨리스",
-        "lead1": "자산을 늘리는 가장 효과적인 방법",
-        "lead2": "암호화폐를 저축하고 연이율 8%를 지급받으세요. (얼리버드 등록 시)",
+        "title": "암호화폐 금융 서비스, 앨리스",
+        "lead1": "암호화폐를 저축하면 복리로 이자를 드립니다.",
+        "lead2": "지금 사전 예약하고 연이율 8% 혜택을 누리세요!",
         "appStore": "App Store",
         "playStore": "Play Store",
-        "earlyBirdRegistration": "지금 얼리버드 등록하기"
+        "earlyBirdRegistration": "지금 사전 예약하기"
     },
     "services": {
         "title": "특징",
@@ -51,17 +51,18 @@
         "getStartNow": "지금 시작하기"
     },
     "subscription": {
-        "title": "얼리버드 등록",
-        "desc": "지금 얼리버드로 등록하고 연이율 8% 저축의 혜택을 받으세요! 얼리버드 등록자에 한해서 6월 1일에 DAI 저축이 오픈됩니다.",
+        "title": "사전 예약",
+        "desc": "지금 사전 예약하고 연이율 8% 저축의 혜택을 받으세요! 2019년 5월 말에 DAI 저축이 오픈됩니다.",
         "enterYourEmail": "이메일을 입력하세요.",
-        "register": "등록하기"
+        "register": "등록하기",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfb3w2QmircnZdLwbFtiTqIsGwA6KYfXqiNwK9pdIzV588WLg/viewform?embedded=true"
     },
     "footer": {
         "features": "특징",
         "savings": "저축",
         "loan": "대출",
         "exchange": "거래소",
-        "registration": "얼리버드 등록",
+        "registration": "사전 예약",
         "moreToCome": "준비 중.."
     }
 }

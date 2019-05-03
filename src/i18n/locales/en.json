@@ -9,12 +9,12 @@
         "goToLink": "Go to link"
     },
     "header": {
-        "title": "Alice for Crypto Finance",
-        "lead1": "Most effective way to increase your crypto assets",
-        "lead2": "Earn annual interest of 8% - ONLY FOR EARLY BIRDS!",
+        "title": "Alice: Crypto Finance",
+        "lead1": "Save crypto to get compound interest.",
+        "lead2": "Reserve now and benefit from annual interest rate of 8%!",
         "appStore": "App Store",
         "playStore": "Play Store",
-        "earlyBirdRegistration": "Early Bird Registration"
+        "earlyBirdRegistration": "Reserve Now"
     },
     "services": {
         "title": "Features",
@@ -51,10 +51,11 @@
         "getStartNow": "Get Start Now"
     },
     "subscription": {
-        "title": "Early Bird Registration",
-        "desc": "Register now and get the benefit of savings of 8% ARP. DAI savings will open at JUNE 1st only for early birds.",
+        "title": "Reservation",
+        "desc": "Reserve now and get the benefit of savings of 8% ARP. DAI savings opens at late May 2019",
         "enterYourEmail": "Enter your email",
-        "register": "Register"
+        "register": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
     },
     "footer": {
         "features": "Features",
