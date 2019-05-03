@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 
 const Footer = () => {
-    const { t } = useTranslation("footer");
+    const { t } = useTranslation(["footer", "blog"]);
     return (
         <footer className="footer footer-default">
             <div className="container">
@@ -34,10 +34,12 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="col-6 col-lg-2">
-                        <h6 className="nav-title mb-4">More Info</h6>
-                        <a className="nav-link" href={"#"}>
-                            {t("moreToCome")}
-                        </a>
+                        <h6 className="nav-title mb-4">Blog</h6>
+                        <div className="nav flex-column">
+                            <a className="nav-link" target="_blank" href={t("blog:introduction.url")}>
+                                {t("blog:introduction.title")}
+                            </a>
+                        </div>
                     </div>
                     <div className="col-lg-2">
                         <div className="social-buttons text-lg-right lead-1">

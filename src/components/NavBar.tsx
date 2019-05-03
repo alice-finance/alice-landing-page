@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import LanguageSwitch from "./LanguageSwitch";
 
 const NavBar = () => {
-    const { t } = useTranslation("common");
+    const { t } = useTranslation("blog");
     return (
         <nav className="navbar navbar-expand-lg navbar-dark fixed-top navbar-affix">
             <div className="container">
@@ -51,7 +51,7 @@ const NavBar = () => {
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link px-0 px-lg-3 px-xl-5" target="_blank" href={t("blogUrl")}>
+                                    <a className="nav-link px-0 px-lg-3 px-xl-5" target="_blank" href={t("url")}>
                                         Blog
                                     </a>
                                 </li>
