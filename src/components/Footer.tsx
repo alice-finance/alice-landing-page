@@ -43,7 +43,7 @@ const Footer = () => {
                     </div>
                     <div className="col-lg-2">
                         <div className="social-buttons text-lg-right lead-1">
-                            <a className="social-telegram" href="https://t.me/alicenetwork" target="_blank">
+                            <a className="social-telegram" href={t("telegramUrl")} target="_blank">
                                 <i className="fab fa-telegram" />
                             </a>
                             <a className="social-github" href="https://github.com/alice-network" target="_blank">

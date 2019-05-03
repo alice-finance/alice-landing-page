@@ -68,6 +68,7 @@
         "loan": "대출",
         "exchange": "거래소",
         "registration": "사전 예약",
-        "moreToCome": "준비 중.."
+        "moreToCome": "준비 중..",
+        "telegramUrl": "https://t.me/alicefinancekorean"
     }
 }

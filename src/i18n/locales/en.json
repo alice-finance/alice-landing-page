@@ -68,6 +68,7 @@
         "loan": "Loan",
         "exchange": "Exchange",
         "registration": "Registration",
-        "moreToCome": "More To Come"
+        "moreToCome": "More To Come",
+        "telegramUrl": "https://t.me/alicefinance"
     }
 }
