@@ -18,12 +18,12 @@
     },
     "services": {
         "title": "Features",
-        "service1.title": "Exchange - 0% Fee",
-        "service1.desc": "Have you paid unfair fees for crypto exchanges? You don't need to anymore.",
-        "service2.title": "Savings - 8% APR",
-        "service2.desc": "Deposit stable coins and get annual interest of 8% continuously.",
-        "service3.title": "Instant Loan - 3 seconds",
-        "service3.desc": "Borrow stable coins instantly with the lowest interest rate. Coins are offered instantly.",
+        "service1.title": "Savings - 8% APR",
+        "service1.desc": "Deposit stable coins and get annual interest of 8% continuously.",
+        "service2.title": "Instant Loan - 3 seconds",
+        "service2.desc": "Borrow stable coins instantly with the lowest interest rate. Coins are offered instantly.",
+        "service3.title": "Exchange - Reliable",
+        "service3.desc": "Can you trust centralized exchanges? Blockchain secures your assets safely.",
         "service4.title": "Custody - Decentralized",
         "service4.desc": "Only YOU can get access to your assets so they belong to you at any time."
     },
@@ -36,23 +36,23 @@
         "feature3.desc": "DPoS consensus algorithm, which operates Alice's blockchain, provides both security and performance."
     },
     "contentFirst": {
-        "title": "Compound Savings of 8% APR",
-        "desc": "Alice offers savings service to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw your savings at any time if you want! (APR : Annual Percentage Rate)",
+        "title": "Compound SAVINGS of 8% APR",
+        "desc": "Alice offers savings service to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw your savings at any time you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Get Start Now"
     },
     "contentSecond": {
-        "title": "Instant Loan in 3 seconds",
-        "desc": "With Alice, you can get an instant loan in less than 3 seconds. Deposit tokens that you believe whose price will increase as collateral. Get paid for your DAI stable coins and use it now!",
+        "title": "Instant LOAN in 3 seconds",
+        "desc": "With Alice, you can get an instant loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your DAI stable coins. Use your DAI and pay it back whenever you want!",
         "getStartNow": "Get Start Now"
     },
     "contentThird": {
-        "title": "Exchange with ZERO fee",
-        "desc": "Are you still paying for fees while trading cryptocurrency? You don't have to anymore. Alice doesn't charge you fees. Trade with ZERO fee!",
+        "title": "EXCHANGE with Reliability",
+        "desc": "While depositing your precious crypto assets into exchanges, can you trust them? Centralized exchanges are exposed to possible thefts and operating risks. Meanwhile, on decentralized exchanges you don't have to trust anyone. Blockchain secures your assets from any threats.",
         "getStartNow": "Get Start Now"
     },
     "subscription": {
         "title": "Reservation",
-        "desc": "Reserve now and get the benefit of savings of 8% ARP. DAI savings opens at late May 2019",
+        "desc": "Reserve now and get the benefit of savings of 8% ARP. DAI savings open at late May 2019.",
         "enterYourEmail": "Enter your email",
         "register": "Register",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"

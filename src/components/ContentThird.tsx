@@ -13,8 +13,8 @@ const ContentThird = () => {
                     <div className="col-lg-5 order-lg-1 mr-auto">
                         <h3 className="mb-4">{t("title")}</h3>
                         <hr className="hr_theme ml-0 mr-auto" />
-                        <p className="mb-8">{t("desc")}</p>
-                        <a href={"#download"} className="btn btn-lg btn-round btn-primary">
+                        <p className="mb-4">{t("desc")}</p>
+                        <a href={"#registration"} className="btn btn-lg btn-round btn-primary">
                             {t("getStartNow")}
                         </a>
                     </div>

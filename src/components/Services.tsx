@@ -16,7 +16,7 @@ const Services = () => {
                                 <div className="px-3">
                                     <div className="wn__icon">
                                         <div className="w-100">
-                                            <img src="assets/img/icon/analytic.png" alt="Icon" />
+                                            <img src="assets/img/icon/loan.png" alt="Icon" />
                                         </div>
                                     </div>
                                     <h6 className="wn__title">{t("service1.title")}</h6>
@@ -27,7 +27,7 @@ const Services = () => {
                                 <div className="px-3">
                                     <div className="wn__icon">
                                         <div className="w-100">
-                                            <img src="assets/img/icon/loan.png" alt="Icon" />
+                                            <img src="assets/img/icon/savings.png" alt="Icon" />
                                         </div>
                                     </div>
                                     <h6 className="wn__title">{t("service2.title")}</h6>
@@ -38,7 +38,7 @@ const Services = () => {
                                 <div className="px-3">
                                     <div className="wn__icon">
                                         <div className="w-100">
-                                            <img src="assets/img/icon/savings.png" alt="Icon" />
+                                            <img src="assets/img/icon/analytic.png" alt="Icon" />
                                         </div>
                                     </div>
                                     <h6 className="wn__title">{t("service3.title")}</h6>
