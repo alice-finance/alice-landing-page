@@ -6,7 +6,8 @@
         "warning": "Warning",
         "copy": "Copy",
         "reset": "Reset",
-        "goToLink": "Go to link"
+        "goToLink": "Go to link",
+        "blogUrl": "https://medium.com/alice-finance"
     },
     "header": {
         "title": "Alice: Crypto Finance",

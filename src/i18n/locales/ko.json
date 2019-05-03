@@ -6,7 +6,8 @@
         "warning": "경고",
         "copy": "복사하기",
         "reset": "초기화",
-        "goToLink": "링크로 이동"
+        "goToLink": "링크로 이동",
+        "blogUrl": "https://medium.com/alice-finance-korean"
     },
     "header": {
         "title": "암호화폐 금융 서비스, 앨리스",
