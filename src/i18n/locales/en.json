@@ -11,7 +11,9 @@
     "blog": {
         "url": "https://medium.com/alice-finance",
         "introduction.title": "Introduction",
-        "introduction.url": "https://medium.com/alice-finance/introduction-to-alice-60a3a1900f5e"
+        "introduction.url": "https://medium.com/alice-finance/introduction-to-alice-60a3a1900f5e",
+        "roadmap.title": "Roadmap",
+        "roadmap.url": "https://medium.com/alice-finance/alice-roadmap-2019-2022-aaeb369c3f2e"
     },
     "header": {
         "title": "Alice: Crypto Finance",

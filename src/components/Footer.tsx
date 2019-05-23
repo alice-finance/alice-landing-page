@@ -39,6 +39,9 @@ const Footer = () => {
                             <a className="nav-link" target="_blank" href={t("blog:introduction.url")}>
                                 {t("blog:introduction.title")}
                             </a>
+                            <a className="nav-link" target="_blank" href={t("blog:roadmap.url")}>
+                                {t("blog:roadmap.title")}
+                            </a>
                         </div>
                     </div>
                     <div className="col-lg-2">
