@@ -69,6 +69,7 @@
         "exchange": "Exchange",
         "registration": "Registration",
         "moreToCome": "More To Come",
+        "mediumUrl": "https://medium.com/alice-finance",
         "telegramUrl": "https://t.me/alicefinance"
     }
 }
