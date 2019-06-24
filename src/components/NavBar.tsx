@@ -9,16 +9,6 @@ const NavBar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark fixed-top navbar-affix">
             <div className="container">
                 <div className="row">
-                    <div className="col-auto col-lg-6 order-lg-2 d-lg-none">
-                        <button
-                            className="navbar-toggler d-xl-none"
-                            data-toggle="offcanvas"
-                            data-target="#offcanvas-left">
-                            <img src="assets/img/menu-dark.svg" className="menu__btn menu-dark" alt="Menu" />
-                            <img src="assets/img/menu-light.svg" className="menu__btn menu-light" alt="Menu" />
-                        </button>
-                    </div>
-
                     <div className="col-auto col-sm-auto order-lg-1 text-lg-left mr-sm-auto mr-lg-0">
                         <a className="navbar-brand logo" href="#">
                             <img src="assets/img/logo-dark.png" alt="ANKAA" className="logo-dark" />
