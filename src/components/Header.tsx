@@ -1,6 +1,4 @@
 import React from "react";
-// @ts-ignore
-import AnchorLink from "react-anchor-link-smooth-scroll";
 import { useTranslation } from "react-i18next";
 
 const Header = () => {
@@ -14,18 +12,21 @@ const Header = () => {
                             <div className="hero-cont">
                                 <div className="mb-4">
                                     <h1 className="display-lg-4 fw-700 mb-6">{t("title")}</h1>
-                                    <p className="lead-lg-4 mb-0">
+                                    <p className="lead-lg-3 mb-0">
                                         {t("lead1")}
                                         <br />
                                         {t("lead2")}
                                     </p>
                                 </div>
-                                <AnchorLink
-                                    offset={74}
-                                    href={"#registration"}
+                                <a
+                                    href="https://play.google.com/store/apps/details?id=finance.alice.app"
+                                    target="_blank"
                                     className="btn-download btn btn-round btn-sm-block btn-primary mr-6 my-3">
-                                    <span className="lead-2 ml-2">{t("earlyBirdRegistration")}</span>
-                                </AnchorLink>
+                                    <span className="lead-3 ml-2">
+                                        <i className="fab fa-google-play font-size-6" />
+                                        <span className="ml-3">{t("download")}</span>
+                                    </span>
+                                </a>
                             </div>
                         </div>
                         <div className="d-none d-lg-block col-md-4 text-center overflow-hidden">

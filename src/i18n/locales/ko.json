@@ -21,7 +21,7 @@
         "lead2": "지금 사전 예약하고 연이율 8% 혜택을 누리세요!",
         "appStore": "App Store",
         "playStore": "Play Store",
-        "earlyBirdRegistration": "지금 사전 예약하기"
+        "download": "지금 다운로드"
     },
     "services": {
         "title": "특징",
@@ -63,6 +63,10 @@
         "enterYourEmail": "이메일을 입력하세요.",
         "register": "등록하기",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfb3w2QmircnZdLwbFtiTqIsGwA6KYfXqiNwK9pdIzV588WLg/viewform?embedded=true"
+    },
+    "download": {
+        "title": "지금 Alice를 경험해보세요!",
+        "download": "지금 다운로드"
     },
     "footer": {
         "features": "특징",

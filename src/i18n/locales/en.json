@@ -21,7 +21,7 @@
         "lead2": "Reserve now and benefit from annual interest rate of 8%!",
         "appStore": "App Store",
         "playStore": "Play Store",
-        "earlyBirdRegistration": "Reserve Now"
+        "download": "Download Now"
     },
     "services": {
         "title": "Features",
@@ -63,6 +63,10 @@
         "enterYourEmail": "Enter your email",
         "register": "Register",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
+    },
+    "download": {
+        "title": "Experience Alice Now!",
+        "download": "Download Now"
     },
     "footer": {
         "features": "Features",
