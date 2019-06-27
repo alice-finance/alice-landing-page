@@ -28,7 +28,7 @@ const Footer = () => {
                             <a className="nav-link" href={"#exchange"}>
                                 {t("exchange")}
                             </a>
-                            <a className="nav-link" href={"#registration"}>
+                            <a className="nav-link" href={"#download"}>
                                 {t("registration")}
                             </a>
                         </div>
