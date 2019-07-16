@@ -1,3 +1,5 @@
+import "@babel/polyfill";
+// tslint:disable-next-line
 import React, { Fragment } from "react";
 
 import "./App.css";
