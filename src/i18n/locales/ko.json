@@ -66,6 +66,8 @@
     },
     "download": {
         "title": "지금 Alice를 경험해보세요!",
+        "playStore": "Play Store",
+        "appStore": "App Store",
         "download": "지금 다운로드"
     },
     "footer": {

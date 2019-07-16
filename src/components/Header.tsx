@@ -24,7 +24,16 @@ const Header = () => {
                                     className="btn-download btn btn-round btn-sm-block btn-primary mr-6 my-3">
                                     <span className="lead-3 ml-2">
                                         <i className="fab fa-google-play font-size-6" />
-                                        <span className="ml-3">{t("download")}</span>
+                                        <span className="ml-3">{t("playStore")}</span>
+                                    </span>
+                                </a>
+                                <a
+                                    href={"https://apps.apple.com/app/alice-crypto-finance/id1470575063"}
+                                    target="_blank"
+                                    className="btn-download btn btn-round btn-sm-block btn-outline-light mr-6 my-3">
+                                    <span className="lead-3 ml-2">
+                                        <i className="fab fa-apple font-size-6" />
+                                        <span className="ml-3">{t("appStore")}</span>
                                     </span>
                                 </a>
                             </div>

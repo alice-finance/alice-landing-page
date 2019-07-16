@@ -20,7 +20,16 @@ const DownloadApp = () => {
                             className="btn-download btn btn-lg btn-round btn-light">
                             <span className="lead-3">
                                 <i className="fab fa-google-play" />
-                                <span className="ml-3">{t("download")}</span>
+                                <span className="ml-3">{t("playStore")}</span>
+                            </span>
+                        </a>
+                        <a
+                            href={"https://apps.apple.com/app/alice-crypto-finance/id1470575063"}
+                            target="_blank"
+                            className="btn-download btn btn-lg btn-round btn-outline-light">
+                            <span className="lead-3">
+                                <i className="fab fa-apple" />
+                                <span className="ml-3">{t("appStore")}</span>
                             </span>
                         </a>
                     </div>
