@@ -1,7 +1,8 @@
 import "@babel/polyfill";
 // tslint:disable-next-line
-import React, { Fragment } from "react";
+import React, {Fragment, useEffect} from "react";
 
+import ReactGA from "react-ga";
 import "./App.css";
 import ContentFirst from "./components/ContentFirst";
 import ContentSecond from "./components/ContentSecond";
@@ -12,21 +13,27 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import NavBar from "./components/NavBar";
 import Services from "./components/Services";
+ReactGA.initialize("UA-145462592-1");
 
-const App = () => (
-    <Fragment>
-        <NavBar />
-        <Header />
-        <main id="content-main" className="content-main">
-            <Services />
-            <Features />
-            <ContentFirst />
-            <ContentSecond />
-            <ContentThird />
-            <DownloadApp />
-        </main>
-        <Footer />
-    </Fragment>
-);
+const App = () => {
+    useEffect(() => {
+        ReactGA.pageview(window.location.pathname);
+    }, [window.location.pathname]);
+    return (
+        <Fragment>
+            <NavBar />
+            <Header />
+            <main id="content-main" className="content-main">
+                <Services />
+                <Features />
+                <ContentFirst />
+                <ContentSecond />
+                <ContentThird />
+                <DownloadApp />
+            </main>
+            <Footer />
+        </Fragment>
+    );
+};
 
 export default App;
