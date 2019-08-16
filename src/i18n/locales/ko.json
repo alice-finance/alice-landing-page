@@ -13,26 +13,30 @@
         "introduction.title": "Alice 소개",
         "introduction.url": "https://medium.com/alice-finance-korean/introduction-to-alice-1eb9e6152a0d",
         "roadmap.title": "로드맵",
-        "roadmap.url": "https://medium.com/alice-finance-korean/alice-roadmap-2019-2020-696d052167e0"
+        "roadmap.url": "https://medium.com/alice-finance-korean/alice-roadmap-2019-2020-696d052167e0",
+        "lending.title": "담보 대출",
+        "lending.url": "https://medium.com/alice-finance-korean/how-alice-collateral-loan-works-8dd6698a68f2",
+        "ifo.title": "IFO",
+        "ifo.url": "https://medium.com/alice-finance-korean/alice-token-ifo-605788cc98f8"
     },
     "header": {
-        "title": "암호화폐 금융 서비스, 앨리스",
-        "lead1": "암호화폐를 저축하면 복리로 이자를 드립니다.",
-        "lead2": "지금 앱을 다운로드하고 연이율 8% 혜택을 누리세요!",
+        "title": "신뢰가 필요없는 암호화폐 금융",
+        "lead1": "고정 금리의 암호화폐 저축, 담보대출을 제공합니다.",
+        "lead2": "DAI를 저축하고 24시간마다 ALICE 토큰을 무료로 받으세요!",
         "appStore": "App Store",
         "playStore": "Play Store",
         "download": "지금 다운로드"
     },
     "services": {
         "title": "특징",
-        "service1.title": "저축 - 8% APR",
+        "service1.title": "저축 - 8% 연이율",
         "service1.desc": "스테이블 코인을 저축하고 연이율 8%의 이자를 꾸준히 지급받으세요!",
-        "service2.title": "즉시 대출 - 3초",
+        "service2.title": "담보 대출 - 빠른 속도",
         "service2.desc": "스테이블 코인을 가장 낮은 수준의 이자로 빌리세요. 코인은 신청 즉시 지급됩니다.",
         "service3.title": "거래소 - 신뢰성",
         "service3.desc": "이제까지 수수료를 내고 거래하셨나요? 이제는 무료로 거래하세요!",
-        "service4.title": "커스토디 - 탈중앙화",
-        "service4.desc": "본인만의 본인의 자산에 접근할 수 있고 소유권은 다른 누구에게도 이전되지 않습니다."
+        "service4.title": "ALICE 토큰 - 무료 제공 중",
+        "service4.desc": "저축을 한 DAI 토큰의 갯수만큼 24시간마다 ALICE 토큰을 무료로 지급받으세요!"
     },
     "features": {
         "feature1.title": "블록체인의 강력한 보안",
@@ -43,18 +47,18 @@
         "feature3.desc": "Alice의 블록체인에 사용되는 DPoS 합의 알고리즘은 높은 수준의 보안성과 퍼포먼스를 모두 제공합니다."
     },
     "contentFirst": {
-        "title": "8% APR 복리 저축",
-        "desc": "앨리스는 암호화폐 자산을 가장 효과적으로 늘릴 수 있는 저축 서비스를 제공합니다. DAI 스테이블 코인을 예치하고 매년 8%의 APR을 가져가세요. 예치 금액에는 제한이 없고 원한다면 언제든 저축 금액을 인출할 수 있습니다! (APR : 연간 퍼센트 비율)",
+        "title": "고정 금리 DAI 저축",
+        "desc": "Alice는 암호화폐 자산을 가장 효과적으로 늘릴 수 있는 저축 서비스를 제공합니다. DAI 스테이블 코인을 예치하고 매년 8%의 연이율을 가져가세요. 예치 금액에는 제한이 없고 원한다면 언제든 저축 금액을 인출할 수 있습니다!",
         "getStartNow": "지금 시작하기"
     },
     "contentSecond": {
-        "title": "3초 이내 즉시 대출",
-        "desc": "앨리스에서 3초 이내에 즉시 대출을 받으실 수 있습니다. 미래에 가치가 오를 것으로 예상되는 토큰을 담보 자산으로 먼저 맡기시고, 즉시 지급되는 DAI 스테이블 코인을 받아서 사용하세요. 상환 기간은 정해져있지 않고 언제든 여력이 있을 때 갚으면 됩니다!",
+        "title": "고정 금리 담보 대출",
+        "desc": "Alice에서 담보를 제공하고 3초 이내에 즉시 대출을 받으실 수 있습니다. 미래에 가치가 오를 것으로 예상되는 토큰을 담보 자산으로 먼저 맡기고, 즉시 지급되는 DAI 스테이블 코인을 받아서 사용하세요. 상환 기간은 정해져있지 않고 원하는 시점에 갚으면 됩니다!",
         "getStartNow": "지금 시작하기"
     },
     "contentThird": {
         "title": "믿을 수 있는 거래소",
-        "desc": "여러분의 소중한 암호화폐 자산을 거래소에 맡기면서, 그들을 믿을 수 있나요? 중앙화된 거래소는 언제든 해킹 위협, 운영 이슈 등에 노출되어 있습니다. 반면 저희의 탈중앙화된 거래소에서는 아무도 믿지 않아도 됩니다. 블록체인 기술이 여러분의 자산을 어떤 위협으로부터 지켜줍니다.",
+        "desc": "여러분의 소중한 암호화폐 자산을 거래소에 맡기면서, 그들을 믿을 수 있나요? 중앙화된 거래소는 언제든 해킹 위협, 운영 이슈 등에 노출되어 있습니다. 반면 저희의 탈중앙화된 거래소에서는 신뢰할 대상이 존재하지 않습니다. 블록체인 기술이 여러분의 자산을 어떤 위협으로부터 지켜줍니다.",
         "getStartNow": "지금 시작하기"
     },
     "subscription": {
