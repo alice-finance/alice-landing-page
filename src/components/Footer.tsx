@@ -80,8 +80,8 @@ const Footer = () => {
                     <div className="col-sm-3 col-lg-4 d-flex align-items-center justify-content-sm-end">
                         <ul className="nav nav-small">
                             <li>
-                                <a href="mailto:support@dnext.co" className="nav-link">
-                                    support@dnext.co
+                                <a href="mailto:support@alice.finance" className="nav-link">
+                                    support@alice.finance
                                 </a>
                             </li>
                         </ul>
