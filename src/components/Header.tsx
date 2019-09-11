@@ -19,7 +19,7 @@ const Header = () => {
                                     </p>
                                 </div>
                                 <a
-                                    href="https://play.google.com/store/apps/details?id=finance.alice.app"
+                                    href="https://alice-finance.app.link/kyCUVYX2SZ"
                                     target="_blank"
                                     className="btn-download btn btn-round btn-sm-block btn-primary mr-6 my-3">
                                     <span className="lead-3 ml-2">
@@ -28,7 +28,7 @@ const Header = () => {
                                     </span>
                                 </a>
                                 <a
-                                    href={"https://apps.apple.com/app/alice-crypto-finance/id1470575063"}
+                                    href="https://alice-finance.app.link/2b62BTx2SZ"
                                     target="_blank"
                                     className="btn-download btn btn-round btn-sm-block btn-outline-light mr-6 my-3">
                                     <span className="lead-3 ml-2">

@@ -15,7 +15,7 @@ const DownloadApp = () => {
                             </span>
                         </a>*/}
                         <a
-                            href="https://play.google.com/store/apps/details?id=finance.alice.app"
+                            href="https://alice-finance.app.link/kyCUVYX2SZ"
                             target="_blank"
                             className="btn-download btn btn-lg btn-round btn-light">
                             <span className="lead-1">
@@ -24,7 +24,7 @@ const DownloadApp = () => {
                             </span>
                         </a>
                         <a
-                            href={"https://apps.apple.com/app/alice-crypto-finance/id1470575063"}
+                            href="https://alice-finance.app.link/2b62BTx2SZ"
                             target="_blank"
                             className="btn-download btn btn-lg btn-round btn-outline-light">
                             <span className="lead-1">
