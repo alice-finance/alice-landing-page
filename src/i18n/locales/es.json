@@ -1,0 +1,85 @@
+{
+    "common": {
+        "cancel": "Cancelar",
+        "ok": "Bien",
+        "done": "Hecho",
+        "warning": "Advertencia",
+        "copy": "Copiar",
+        "reset": "Reset",
+        "goToLink": "Ir al enlace"
+    },
+    "blog": {
+        "url": "https://medium.com/alice-finance",
+        "Introduction.title": "Introducción",
+        "troduction.url ":" https://medium.com/alice-finance/introduction-to-alice-60a3a1900f5e",
+        "roadmap.title": "Roadmap",
+        "roadmap.url": "https://medium.com/alice-finance/alice-roadmap-2019-2022-aaeb369c3f2e",
+        "lending.title": "Préstamo",
+        "lending.url": "https://medium.com/alice-finance/how-alice-collateral-loan-works-5fc435a28400",
+        "ifo.title": "IFO",
+        "ifo.url": "https://medium.com/alice-finance/alice-token-ifo-364ddc598c1d"
+    },
+    "header": {
+        "title": "Finanza sin confianza",
+        "lead1": "Alice Finance ofrece ahorros y préstamos a tasas de interés fijas",
+        "lead2": "¡Deposita DAI y obtén token ALICE GRATIS cada 24 horas!",
+        "appStore": "App Store",
+        "playStore": "Play Store",
+        "download": "Descargar Ahora"
+    },
+    "services": {
+        "title": "Características",
+        "service1.title": "Ahorro - 8% APR",
+        "service1.desc": "Deposite monedas estables y obtenga un interés anual del 8% de forma continua",
+        "service2.title": "Préstamo instantáneo - 3 segundos",
+        "service2.desc": "Pide prestado monedas estables al instante con la tasa de interés más baja. Las monedas se ofrecen al instante",
+        "service3.title": "Intercambio - Confiable",
+        "service3.desc": "¿Puede confiar en los intercambios centralizados? Blockchain asegura sus activos de forma segura",
+        "service4.title": "Token ALICE - Gratis",
+        "service4.desc": "¡Obtén el token ALICE gratis cada 24 horas proporcional a tus DAI guardadas!"
+    },
+    "features": {
+        "feature1.title": "Asegurado por blockchain",
+        "feature1.desc": "Alice Finance está respaldada por su propia cadena de bloques. Protege sus activos al más alto nivel de seguridad.",
+        "feature2.title": "Intuitivo y conveniente",
+        "feature2.desc": "Ofrece la mejor experiencia de usuario para el comercio, préstamo y préstamo de activos",
+        "feature3.title": "Superperformant",
+        "feature3.desc": "El algoritmo de consenso DPoS, que opera la cadena de bloques de Alice Finance, proporciona seguridad y rendimiento."
+    },
+    "contentFirst": {
+        "title": "Ahorro DAI de tasa de interés fija",
+        "desc": "Alice Finance ofrece ahorros para ayudarlo a aumentar sus activos de manera más efectiva. Deposite monedas estables de DAI y obtenga 8% de APR cada año. No hay límite en la cantidad de depósito y puede retirar cualquier cantidad en cualquier momento que desee ! (APR: Tasa de porcentaje anual) ",
+        "getStartNow": "Descargar ahora"
+    },
+    "contentSecond": {
+        "title": "Préstamo respaldado por colateral",
+        "desc": "Con Alice Finance, puede obtener un préstamo en menos de 3 segundos. Primero, deposite los tokens como garantía que cree cuyo precio aumentará. Luego, se le pagará por sus monedas estables DAI. Use su DAI y ¡devuélvelo cuando quieras! ",
+        "getStartNow": "Descargar ahora"
+    },
+    "contentThird": {
+        "title": "Intercambio con fiabilidad",
+        "desc": "Sus activos de cifrado son más importantes que cualquier otra cosa. ¿Puede realmente confiar en los intercambios centralizados mientras deposita sus activos? En Alice Finance no tiene que confiar en nadie. La tecnología Blockchain protege sus activos de cualquier amenaza",
+        "getStartNow": "Descargar ahora"
+    },
+    "subscription": {
+        "title": "Reserva",
+        "desc": "Reserve ahora y obtenga el beneficio de ahorros del 8% ARP. Ahorro DAI abierto a fines de mayo de 2019.",
+        "enterYourEmail": "Ingrese su correo electrónico",
+        "register": "Registrarse",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
+    },
+    "download": {
+        "title": "¡Experimenta Alice Finance Now!",
+        "download": "Descargar Ahora"
+    },
+    "footer": {
+        "features": "Funciones",
+        "savings": "Ahorro",
+        "loan": "Préstamo",
+        "exchange": "Intercambio",
+        "registration": "Registro",
+        "moreToCome": "Más por venir",
+        "mediumUrl": "https://medium.com/alice-finance",
+        "telegramUrl": "https://t.me/alicefinanceespanol"
+    }
+}

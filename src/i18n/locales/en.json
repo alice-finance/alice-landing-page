@@ -21,7 +21,7 @@
     },
     "header": {
         "title": "Trustless Crypto Finance",
-        "lead1": "Alice offers savings and loan at fixed interest rates",
+        "lead1": "Alice Finance offers savings and loan at fixed interest rates",
         "lead2": "Deposit DAIs and get FREE ALICE token every 24hours!",
         "appStore": "App Store",
         "playStore": "Play Store",
@@ -40,25 +40,25 @@
     },
     "features": {
         "feature1.title": "Secured by blockchain",
-        "feature1.desc": "Alice is backed by its own blockchain. It protects your assets at the highest level of security.",
+        "feature1.desc": "Alice Finance is backed by its own blockchain. It protects your assets at the highest level of security.",
         "feature2.title": "Intuitive and convenient",
         "feature2.desc": "It offers the best user experience for trading, borrowing and lending assets.",
         "feature3.title": "Super performant",
-        "feature3.desc": "DPoS consensus algorithm, which operates Alice's blockchain, provides both security and performance."
+        "feature3.desc": "DPoS consensus algorithm, which operates Alice Finance's blockchain, provides both security and performance."
     },
     "contentFirst": {
         "title": "DAI Savings of Fixed Interest Rate",
-        "desc": "Alice offers savings to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
+        "desc": "Alice Finance offers savings to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Download Now"
     },
     "contentSecond": {
         "title": "Loan Backed By Collateral",
-        "desc": "With Alice, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your DAI stable coins. Use your DAI and pay it back whenever you want!",
+        "desc": "With Alice Finance, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your DAI stable coins. Use your DAI and pay it back whenever you want!",
         "getStartNow": "Download Now"
     },
     "contentThird": {
         "title": "Exchange with Reliability",
-        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On Alice you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
+        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On Alice Finance you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
         "getStartNow": "Download Now"
     },
     "subscription": {
@@ -69,7 +69,7 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
     },
     "download": {
-        "title": "Experience Alice Now!",
+        "title": "Experience Alice Finance Now!",
         "download": "Download Now"
     },
     "footer": {
