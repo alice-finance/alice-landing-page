@@ -19,6 +19,9 @@ const LanguageSwitch = () => {
                 <button className="dropdown-item" onClick={onChangeLanguage("en")}>
                     English
                 </button>
+                <button className="dropdown-item" onClick={onChangeLanguage("es")}>
+                    Español
+                </button>
                 <button className="dropdown-item" onClick={onChangeLanguage("ko")}>
                     한국어
                 </button>
