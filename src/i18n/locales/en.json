@@ -49,17 +49,17 @@
     "contentFirst": {
         "title": "DAI Savings of Fixed Interest Rate",
         "desc": "Alice offers savings to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
-        "getStartNow": "Get Start Now"
+        "getStartNow": "Download Now"
     },
     "contentSecond": {
         "title": "Loan Backed By Collateral",
         "desc": "With Alice, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your DAI stable coins. Use your DAI and pay it back whenever you want!",
-        "getStartNow": "Get Start Now"
+        "getStartNow": "Download Now"
     },
     "contentThird": {
         "title": "Exchange with Reliability",
         "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On Alice you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
-        "getStartNow": "Get Start Now"
+        "getStartNow": "Download Now"
     },
     "subscription": {
         "title": "Reservation",
