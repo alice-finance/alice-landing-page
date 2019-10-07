@@ -20,56 +20,55 @@
         "ifo.url": "https://medium.com/alice-finance/alice-token-ifo-364ddc598c1d"
     },
     "header": {
-        "title": "Trustless Crypto Finance",
-        "lead1": "Alice Finance offers savings and loan at fixed interest rates",
-        "lead2": "Deposit DAIs and get FREE ALICE token every 24hours!",
+        "title": "Universal Standard for Cross-Chain DeFi",
+        "lead": "Alice Dollar, Trustless Price Oracle and Cross-Chain DEX enable DeFi across different blockchains.",
         "appStore": "App Store",
         "playStore": "Play Store",
         "download": "Download Now"
     },
     "services": {
         "title": "Features",
-        "service1.title": "Savings - 8% APR",
-        "service1.desc": "Deposit stable coins and get annual interest of 8% continuously.",
-        "service2.title": "Instant Loan - 3 seconds",
-        "service2.desc": "Borrow stable coins instantly with the lowest interest rate. Coins are offered instantly.",
-        "service3.title": "Exchange - Reliable",
-        "service3.desc": "Can you trust centralized exchanges? Blockchain secures your assets safely.",
-        "service4.title": "ALICE Token - Free",
-        "service4.desc": "Get free ALICE token every 24 hours proportional to your saved DAIs!"
+        "service1.title": "Alice Dollar (ALD)",
+        "service1.desc": "ALD can be swapped with USDT, TUSD, USDC, PAX, GUSD, DAI. It unifies the whole eco-system of stable coins on each blockchain.",
+        "service2.title": "Trustless Price Oracle",
+        "service2.desc": "Operators provide price feeds for each asset. They get slashed on their previously staked ALICE tokens if are not honest.",
+        "service3.title": "Cross-Chain DEX",
+        "service3.desc": "With Alice Dollar as base pair, the Protocol offers a Cross-Chain DEX where assets are traded across chains.",
+        "service4.title": "Free ALICE Tokens",
+        "service4.desc": "Get free ALICE token every 24 hours proportional to your deposited stable coins."
     },
     "features": {
-        "feature1.title": "Secured by blockchain",
-        "feature1.desc": "Alice Finance is backed by its own blockchain. It protects your assets at the highest level of security.",
-        "feature2.title": "Intuitive and convenient",
-        "feature2.desc": "It offers the best user experience for trading, borrowing and lending assets.",
-        "feature3.title": "Super performant",
-        "feature3.desc": "DPoS consensus algorithm, which operates Alice Finance's blockchain, provides both security and performance."
+        "feature1.title": "Interoperability",
+        "feature1.desc": "Assets from Bitcoin, Ethereum, EOS, Binance, Cosmos and Tron are transferred in and out in a decentralized way.",
+        "feature2.title": "Cross-Chain DeFi",
+        "feature2.desc": "Alice Dollar, Trustless Price Oracle and Cross-Chain DEX enable DeFi across different blockchains.",
+        "feature3.title": "3rd Party Apps",
+        "feature3.desc": "The first working app on AliceFi is crypto savings and loan."
     },
     "contentFirst": {
-        "title": "DAI Savings of Fixed Interest Rate",
-        "desc": "Alice Finance offers savings to help you increase your assets most effectively. Deposit DAI stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
+        "title": "ALD Savings of Fixed Interest Rate",
+        "desc": "AliceFi offers savings to help you increase your assets most effectively. Deposit ALD stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Download Now"
     },
     "contentSecond": {
         "title": "Loan Backed By Collateral",
-        "desc": "With Alice Finance, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your DAI stable coins. Use your DAI and pay it back whenever you want!",
+        "desc": "With AliceFi, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your ALD stable coins. Use your ALD and pay it back whenever you want!",
         "getStartNow": "Download Now"
     },
     "contentThird": {
         "title": "Exchange with Reliability",
-        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On Alice Finance you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
+        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On AliceFi you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
         "getStartNow": "Download Now"
     },
     "subscription": {
         "title": "Reservation",
-        "desc": "Reserve now and get the benefit of savings of 8% ARP. DAI savings open at late May 2019.",
+        "desc": "Reserve now and get the benefit of savings of 8% ARP. ALD savings open at late May 2019.",
         "enterYourEmail": "Enter your email",
         "register": "Register",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
     },
     "download": {
-        "title": "Experience Alice Finance Now!",
+        "title": "Experience AliceFi Now!",
         "download": "Download Now"
     },
     "footer": {

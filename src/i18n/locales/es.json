@@ -20,45 +20,44 @@
         "ifo.url": "https://medium.com/alice-finance/alice-token-ifo-364ddc598c1d"
     },
     "header": {
-        "title": "Finanza sin confianza",
-        "lead1": "Alice Finance ofrece ahorros y préstamos a tasas de interés fijas",
-        "lead2": "¡Deposita DAI y obtén token ALICE GRATIS cada 24 horas!",
+        "title": "Estándar universal para DeFi de cadena cruzada",
+        "lead": "Alice Dollar, Oracle sin precio y Cross-Chain DEX habilitan el DeFi en diferentes blockchains",
         "appStore": "App Store",
         "playStore": "Play Store",
-        "download": "Descargar Ahora"
+        "descargar": "Descargar ahora"
     },
     "services": {
         "title": "Características",
-        "service1.title": "Ahorro - 8% APR",
-        "service1.desc": "Deposite monedas estables y obtenga un interés anual del 8% de forma continua",
-        "service2.title": "Préstamo instantáneo - 3 segundos",
-        "service2.desc": "Pide prestado monedas estables al instante con la tasa de interés más baja. Las monedas se ofrecen al instante",
-        "service3.title": "Intercambio - Confiable",
-        "service3.desc": "¿Puede confiar en los intercambios centralizados? Blockchain asegura sus activos de forma segura",
-        "service4.title": "Token ALICE - Gratis",
-        "service4.desc": "¡Obtén el token ALICE gratis cada 24 horas proporcional a tus DAI guardadas!"
+        "service1.title": "Alice Dollar (ALD)",
+        "service1.desc": "ALD puede intercambiarse con USDT, TUSD, USDC, PAX, GUSD, DAI. Unifica todo el ecosistema de monedas estables en cada blockchain",
+        "service2.title": "Trustless Price Oracle",
+        "service2.desc": "Los operadores proporcionan feeds de precios para cada activo. Se reducen en sus tokens ALICE previamente estacados si no son honestos",
+        "service3.title": "Cross-Chain DEX",
+        "service3.desc": "Con Alice Dollar como par base, el Protocolo ofrece un DEX de cadena cruzada donde los activos se negocian a través de cadenas",
+        "service4.title": "Tokens ALICE gratuitos",
+        "service4.desc": "Obtenga token ALICE gratis cada 24 horas proporcional a sus monedas estables depositadas"
     },
     "features": {
-        "feature1.title": "Asegurado por blockchain",
-        "feature1.desc": "Alice Finance está respaldada por su propia cadena de bloques. Protege sus activos al más alto nivel de seguridad.",
-        "feature2.title": "Intuitivo y conveniente",
-        "feature2.desc": "Ofrece la mejor experiencia de usuario para el comercio, préstamo y préstamo de activos",
-        "feature3.title": "Superperformant",
-        "feature3.desc": "El algoritmo de consenso DPoS, que opera la cadena de bloques de Alice Finance, proporciona seguridad y rendimiento."
+        "feature1.title": "Interoperabilidad",
+        "feature1.desc": "Los activos de Bitcoin, Ethereum, EOS, Binance, Cosmos y Tron se transfieren de forma descentralizada",
+        "feature2.title": "DeFi de cadena cruzada",
+        "feature2.desc": "Alice Dollar, Oracle sin precio y Cross-Chain DEX habilitan DeFi en diferentes blockchains",
+        "feature3.title": "Aplicaciones de terceros",
+        "feature3.desc": "La primera aplicación que funciona en AliceFi es el ahorro y préstamo de cifrado"
     },
     "contentFirst": {
         "title": "Ahorro DAI de tasa de interés fija",
-        "desc": "Alice Finance ofrece ahorros para ayudarlo a aumentar sus activos de manera más efectiva. Deposite monedas estables de DAI y obtenga 8% de APR cada año. No hay límite en la cantidad de depósito y puede retirar cualquier cantidad en cualquier momento que desee ! (APR: Tasa de porcentaje anual) ",
+        "desc": "AliceFi ofrece ahorros para ayudarlo a aumentar sus activos de manera más efectiva. Deposite monedas estables de DAI y obtenga 8% de APR cada año. No hay límite en la cantidad de depósito y puede retirar cualquier cantidad en cualquier momento que desee ! (APR: Tasa de porcentaje anual) ",
         "getStartNow": "Descargar ahora"
     },
     "contentSecond": {
         "title": "Préstamo respaldado por colateral",
-        "desc": "Con Alice Finance, puede obtener un préstamo en menos de 3 segundos. Primero, deposite los tokens como garantía que cree cuyo precio aumentará. Luego, se le pagará por sus monedas estables DAI. Use su DAI y ¡devuélvelo cuando quieras! ",
+        "desc": "Con AliceFi, puede obtener un préstamo en menos de 3 segundos. Primero, deposite los tokens como garantía que cree cuyo precio aumentará. Luego, se le pagará por sus monedas estables DAI. Use su DAI y ¡devuélvelo cuando quieras! ",
         "getStartNow": "Descargar ahora"
     },
     "contentThird": {
         "title": "Intercambio con fiabilidad",
-        "desc": "Sus activos de cifrado son más importantes que cualquier otra cosa. ¿Puede realmente confiar en los intercambios centralizados mientras deposita sus activos? En Alice Finance no tiene que confiar en nadie. La tecnología Blockchain protege sus activos de cualquier amenaza",
+        "desc": "Sus activos de cifrado son más importantes que cualquier otra cosa. ¿Puede realmente confiar en los intercambios centralizados mientras deposita sus activos? En AliceFi no tiene que confiar en nadie. La tecnología Blockchain protege sus activos de cualquier amenaza",
         "getStartNow": "Descargar ahora"
     },
     "subscription": {
@@ -69,7 +68,7 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSctsoZ6KwQb5r2tqS_JHPIlDXUwbHE-yoo6HuaE4pnYRoyMpw/viewform?embedded=true"
     },
     "download": {
-        "title": "¡Experimenta Alice Finance Ahora!",
+        "title": "¡Experimenta AliceFi Ahora!",
         "download": "Descargar Ahora"
     },
     "footer": {

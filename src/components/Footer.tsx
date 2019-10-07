@@ -75,13 +75,13 @@ const Footer = () => {
                 </div>
                 <div className="row gutters-y mt-2 mt-lg-4 small">
                     <div className="col-sm-9 col-lg-8">
-                        <span>© 2019 DNext Inc.</span>
+                        <span>© 2019 AliceFi</span>
                     </div>
                     <div className="col-sm-3 col-lg-4 d-flex align-items-center justify-content-sm-end">
                         <ul className="nav nav-small">
                             <li>
-                                <a href="mailto:support@alice.finance" className="nav-link">
-                                    support@alice.finance
+                                <a href="mailto:support@alicefi.com" className="nav-link">
+                                    support@alicefi.com
                                 </a>
                             </li>
                         </ul>

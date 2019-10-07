@@ -61,7 +61,7 @@ const Feature2 = () => {
             <div className="features__item">
                 <div className="mb-6 mb-lg-0 mr-lg-6">
                     <div className="features_img_wrapper">
-                        <img src="assets/img/icon/intuitive.png" alt="Speed" />
+                        <img src="assets/img/icon/resp.png" alt="Speed" />
                     </div>
                 </div>
                 <div>

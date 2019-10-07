@@ -12,11 +12,7 @@ const Header = () => {
                             <div className="hero-cont">
                                 <div className="mb-4">
                                     <h1 className="display-lg-4 fw-700 mb-6">{t("title")}</h1>
-                                    <p className="lead-lg-3 mb-0">
-                                        {t("lead1")}
-                                        <br />
-                                        {t("lead2")}
-                                    </p>
+                                    <p className="lead-lg-3 mb-0">{t("lead")}</p>
                                 </div>
                                 <a
                                     href="https://alice-finance.app.link/kyCUVYX2SZ"

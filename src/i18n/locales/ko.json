@@ -10,7 +10,7 @@
     },
     "blog": {
         "url": "https://medium.com/alice-finance-korean",
-        "introduction.title": "Alice Finance 소개",
+        "introduction.title": "AliceFi 소개",
         "introduction.url": "https://medium.com/alice-finance-korean/introduction-to-alice-1eb9e6152a0d",
         "roadmap.title": "로드맵",
         "roadmap.url": "https://medium.com/alice-finance-korean/alice-roadmap-2019-2020-696d052167e0",
@@ -20,40 +20,39 @@
         "ifo.url": "https://medium.com/alice-finance-korean/alice-token-ifo-605788cc98f8"
     },
     "header": {
-        "title": "신뢰가 필요없는 암호화폐 금융",
-        "lead1": "고정 금리의 암호화폐 저축, 담보대출을 제공합니다.",
-        "lead2": "DAI를 저축하고 24시간마다 ALICE 토큰을 무료로 받으세요!",
+        "title": "크로스 체인 DeFi를 위한 유니버설 표준",
+        "lead": "앨리스 달러, 가격 피드 오라클, 크로스 체인 DEX을 통해 여러 블록체인을 연결하는 DeFi를 제공합니다.",
         "appStore": "App Store",
         "playStore": "Play Store",
         "download": "지금 다운로드"
     },
     "services": {
         "title": "특징",
-        "service1.title": "저축 - 8% 연이율",
-        "service1.desc": "스테이블 코인을 저축하고 연이율 8%의 이자를 꾸준히 지급받으세요!",
-        "service2.title": "담보 대출 - 빠른 속도",
-        "service2.desc": "스테이블 코인을 가장 낮은 수준의 이자로 빌리세요. 코인은 신청 즉시 지급됩니다.",
-        "service3.title": "거래소 - 신뢰성",
-        "service3.desc": "이제까지 수수료를 내고 거래하셨나요? 이제는 무료로 거래하세요!",
-        "service4.title": "ALICE 토큰 - 무료 제공 중",
-        "service4.desc": "저축을 한 DAI 토큰의 갯수만큼 24시간마다 ALICE 토큰을 무료로 지급받으세요!"
+        "service1.title": "앨리스 달러 (ALD)",
+        "service1.desc": "ALD는 USDT, TUSD, USDC, PAX, GUSD, DAI 등과 스왑되며 각 블록체인의 스테이블 코인 생태계 전체를 통합합니다.",
+        "service2.title": "가격 피드 오라클",
+        "service2.desc": "오퍼레이터들은 각각의 자산에 대해 가격 피드를 제공합니다. 만약 그들이 정직하지 않은 행동을 하면 스테이킹된 ALICE 토큰이 삭감됩니다.",
+        "service3.title": "크로스 체인 DEX",
+        "service3.desc": "앨리스 달러를 기본 통화로 하며 여러 블록체인의 자산이 거래될 수 있는 크로스 체인 DEX를 제공합니다.",
+        "service4.title": "무료 ALICE 토큰",
+        "service4.desc": "예치한 스테이블 코인의 양에 비례해서 24시간마다 무료로 ALICE 토큰을 받으세요!"
     },
     "features": {
-        "feature1.title": "블록체인의 강력한 보안",
-        "feature1.desc": "Alice는 독자적 블록체인 위에서 작동됩니다. 이로 인해 여러분의 자산은 최고의 보안 레벨로 보호받게 됩니다.",
-        "feature2.title": "직관적이고 편리한 UX",
-        "feature2.desc": "Alice는 암호화폐의 거래, 대출 및 저축을 위한 가장 직관적이고 편리한 사용자 경험을 제공합니다.",
-        "feature3.title": "최고의 퍼포먼스 제공",
-        "feature3.desc": "Alice의 블록체인에 사용되는 DPoS 합의 알고리즘은 높은 수준의 보안성과 퍼포먼스를 모두 제공합니다."
+        "feature1.title": "상호 운용성",
+        "feature1.desc": "비트코인, 이더리움, EOS, 바이낸스, 코스모스, 트론 블록체인의 자산들이 탈중앙화된 방식으로 입출금될 수 있습니다.",
+        "feature2.title": "크로스 체인 DeFi",
+        "feature2.desc": "앨리스 달러, 가격 피드 오라클, 크로스 체인 DEX을 통해 여러 블록체인을 연결하는 DeFi를 제공합니다.",
+        "feature3.title": "앱 생태계",
+        "feature3.desc": "AliceFi에서 제공하는 첫번째 앱은 암호화폐 저축 및 담보 대출입니다."
     },
     "contentFirst": {
-        "title": "고정 금리 DAI 저축",
-        "desc": "Alice는 암호화폐 자산을 가장 효과적으로 늘릴 수 있는 저축 서비스를 제공합니다. DAI 스테이블 코인을 예치하고 매년 8%의 연이율을 가져가세요. 예치 금액에는 제한이 없고 원한다면 언제든 저축 금액을 인출할 수 있습니다!",
+        "title": "고정 금리 ALD 저축",
+        "desc": "Alice는 암호화폐 자산을 가장 효과적으로 늘릴 수 있는 저축 서비스를 제공합니다. ALD 스테이블 코인을 예치하고 매년 8%의 연이율을 가져가세요. 예치 금액에는 제한이 없고 원한다면 언제든 저축 금액을 인출할 수 있습니다!",
         "getStartNow": "지금 시작하기"
     },
     "contentSecond": {
         "title": "고정 금리 담보 대출",
-        "desc": "Alice에서 담보를 제공하고 3초 이내에 즉시 대출을 받으실 수 있습니다. 미래에 가치가 오를 것으로 예상되는 토큰을 담보 자산으로 먼저 맡기고, 즉시 지급되는 DAI 스테이블 코인을 받아서 사용하세요. 상환 기간은 정해져있지 않고 원하는 시점에 갚으면 됩니다!",
+        "desc": "Alice에서 담보를 제공하고 3초 이내에 즉시 대출을 받으실 수 있습니다. 미래에 가치가 오를 것으로 예상되는 토큰을 담보 자산으로 먼저 맡기고, 즉시 지급되는 ALD 스테이블 코인을 받아서 사용하세요. 상환 기간은 정해져있지 않고 원하는 시점에 갚으면 됩니다!",
         "getStartNow": "지금 시작하기"
     },
     "contentThird": {
@@ -63,13 +62,13 @@
     },
     "subscription": {
         "title": "사전 예약",
-        "desc": "지금 사전 예약하고 연이율 8% 저축의 혜택을 받으세요! 2019년 5월 말에 DAI 저축이 오픈됩니다.",
+        "desc": "지금 사전 예약하고 연이율 8% 저축의 혜택을 받으세요! 2019년 5월 말에 ALD 저축이 오픈됩니다.",
         "enterYourEmail": "이메일을 입력하세요.",
         "register": "등록하기",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfb3w2QmircnZdLwbFtiTqIsGwA6KYfXqiNwK9pdIzV588WLg/viewform?embedded=true"
     },
     "download": {
-        "title": "지금 Alice를 경험해보세요!",
+        "title": "지금 AliceFi를 경험해보세요!",
         "playStore": "Play Store",
         "appStore": "App Store",
         "download": "지금 다운로드"
