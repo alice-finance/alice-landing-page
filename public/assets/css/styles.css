@@ -57,13 +57,13 @@
 .hr_theme {
     width: 16%;
     border-width: 3px;
-    border-color: #8315d6; }
+    border-color: #007BFF; }
 
 /* gradients */
 [data-gradient="1"] {
-    background: #da2f69;
-    background: -webkit-linear-gradient(left, #da2f69 0%, #8315d6 100%);
-    background: linear-gradient(to right, #da2f69 0%, #8315d6 100%); }
+    background: #17a2b8;
+    background: -webkit-linear-gradient(left, #17a2b8 0%, #007BFF 100%);
+    background: linear-gradient(to right, #17a2b8 0%, #007BFF 100%); }
 
 /* offcanvas */
 @media (max-width: 991.98px) {
@@ -83,7 +83,7 @@
     overflow: hidden;
     height: 100vh; }
 /*.header .header-hero:not(.hero-solid) {*/
-/*    background: #8315d6 url(../img/header/header__bg.png) no-repeat center bottom/cover; }*/
+/*    background: #007BFF url(../img/header/header__bg.png) no-repeat center bottom/cover; }*/
 .header .header-hero .device-hero {
     max-width: 20rem;
     width: 100%; }
@@ -108,7 +108,7 @@
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
 .header .header-hero .btn-play-primary {
-    color: #8315d6; }
+    color: #007BFF; }
 .header .header-hero .btn-play-primary:hover {
     color: rgba(131, 21, 214, 0.8); }
 .header .header-hero .btn-play-primary:hover .icon {
@@ -206,7 +206,7 @@
         height: 6.5rem; } }
 /* features */
 .features__section {
-    background: #8315d6; }
+    background: #007BFF; }
 .features__section .features_device__bg_wrapper {
     position: absolute;
     left: 0;
@@ -254,9 +254,9 @@
     width: 6rem;
     height: 6rem;
     padding: 1.4rem;
-    background: #8315d6;
-    background: -webkit-linear-gradient(left, #8315d6 0%, #d01786 100%);
-    background: linear-gradient(to right, #8315d6 0%, #d01786 100%);
+    background: #007BFF;
+    background: -webkit-linear-gradient(left, #007BFF 0%, #00B2FF 100%);
+    background: linear-gradient(to right, #007BFF 0%, #00B2FF 100%);
     border-radius: 50%; }
 .features__section .features_wrapper .features__item .features__title {
     font-weight: 500;
@@ -395,7 +395,7 @@
 .timeline__section .timeline-item::after {
     color: #ffffff;
     border: double 3px transparent;
-    background-image: linear-gradient(transparent, transparent), radial-gradient(circle at top left, #8315d6, #da2f69);
+    background-image: linear-gradient(transparent, transparent), radial-gradient(circle at top left, #007BFF, #17a2b8);
     background-origin: border-box;
     background-clip: content-box, border-box; }
 .timeline__section .timeline-item p:last-child {
@@ -404,7 +404,7 @@
     content: "";
     width: .5rem;
     height: .5rem;
-    background: #8315d6;
+    background: #007BFF;
     display: block;
     position: absolute;
     left: -0.3125rem;
@@ -424,7 +424,7 @@
 .wn__section .wn_wrapper {
     border-radius: 3rem;
     border: double 3px transparent;
-    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #8315d6, #da2f69);
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #007BFF, #17a2b8);
     background-origin: border-box;
     background-clip: content-box, border-box; }
 .wn__section .wn_wrapper .wn__body {
@@ -438,9 +438,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #da2f69;
-    background: -webkit-linear-gradient(left, #da2f69 0%, #8315d6 100%);
-    background: linear-gradient(to right, #da2f69 0%, #8315d6 100%);
+    background: #17a2b8;
+    background: -webkit-linear-gradient(left, #17a2b8 0%, #007BFF 100%);
+    background: linear-gradient(to right, #17a2b8 0%, #007BFF 100%);
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1.5rem;
@@ -475,13 +475,13 @@
 .pricing_table .pricing_item--start .pricing_title {
     background: url(../img/table/shape.png) no-repeat top center; }
 .pricing_table .pricing_item--featured {
-    background: #da2f69; }
+    background: #17a2b8; }
 .pricing_table .pricing_item--featured .pricing_title {
     background: url(../img/table/shape.png) no-repeat center center; }
 .pricing_table .pricing_item--featured .pricing_price,
 .pricing_table .pricing_item--featured .pricing_currency,
 .pricing_table .pricing_item--featured .pricing_action:hover {
-    color: #da2f69; }
+    color: #17a2b8; }
 .pricing_table .pricing_item--end .pricing_title {
     background: url(../img/table/shape.png) no-repeat bottom center; }
 
@@ -511,7 +511,7 @@
     background-color: #f7f7f7; }
 .newsletter__section .input-group:not(.input-line) {
     border: double 3px transparent;
-    background-image: linear-gradient(#f7f7f7, #f7f7f7), radial-gradient(circle at top left, #da2f69, #8315d6);
+    background-image: linear-gradient(#f7f7f7, #f7f7f7), radial-gradient(circle at top left, #17a2b8, #007BFF);
     background-origin: border-box;
     background-clip: content-box, border-box;
     margin-bottom: 0; }
@@ -523,7 +523,7 @@
 
 /* contact us */
 .contact_us__section {
-    background: #8315d6 url(../img/contact/contact__bg.jpg) center no-repeat;
+    background: #007BFF url(../img/contact/contact__bg.jpg) center no-repeat;
     background-size: cover; }
 .contact_us__section .form-control {
     background-color: #501080;
@@ -535,8 +535,8 @@
     background: #dc3c72;
     font-weight: 500; }
 .contact_us__section .btn-contact_us:hover {
-    border-color: #da2f69 !important;
-    background: #da2f69; }
+    border-color: #17a2b8 !important;
+    background: #17a2b8; }
 .contact_us__section .input-rounded .form-group:focus-within, .contact_us__section .input-rounded .input-group:focus-within {
     box-shadow: none; }
 .contact_us__section label {
@@ -565,7 +565,7 @@
 .faq__section .accordion .card .card-header h1 a, .faq__section .accordion .card .card-header h2 a, .faq__section .accordion .card .card-header h3 a, .faq__section .accordion .card .card-header h4 a, .faq__section .accordion .card .card-header h5 a, .faq__section .accordion .card .card-header h6 a, .faq__section .accordion .card .card-header .h1 a, .faq__section .accordion .card .card-header .h2 a, .faq__section .accordion .card .card-header .h3 a, .faq__section .accordion .card .card-header .h4 a, .faq__section .accordion .card .card-header .h5 a, .faq__section .accordion .card .card-header .h6 a {
     font-weight: 300; }
 .faq__section .accordion .card .card-header .icon {
-    color: #8315d6; }
+    color: #007BFF; }
 .faq__section .accordion .card .card-body {
     padding-left: 3rem;
     padding-top: 0; }
@@ -669,7 +669,7 @@
 .body-auth .auth {
     max-width: 25rem;
     background: #ffffff;
-    border-top: 3px solid #8315d6; }
+    border-top: 3px solid #007BFF; }
 .body-auth .ts-link {
     position: relative; }
 .body-auth .ts-link:after {
@@ -726,7 +726,7 @@
     justify-content: center;
     width: 4.5rem;
     height: 4.5rem;
-    background: #8315d6;
+    background: #007BFF;
     border-radius: 50%;
     margin-bottom: 1.2rem; }
 
@@ -740,9 +740,9 @@
         height: 7.5rem; } }
 .page-hero {
     height: 28.125rem;
-    background: #da2f69;
-    background: -webkit-linear-gradient(left, #da2f69 0%, #8315d6 100%);
-    background: linear-gradient(to right, #da2f69 0%, #8315d6 100%); }
+    background: #17a2b8;
+    background: -webkit-linear-gradient(left, #17a2b8 0%, #007BFF 100%);
+    background: linear-gradient(to right, #17a2b8 0%, #007BFF 100%); }
 
 [data-animated-background] {
     position: absolute;
@@ -843,7 +843,7 @@
 .tags_cloud .badge-primary {
     background-color: #c990f4; }
 .tags_cloud .badge-primary:hover {
-    background-color: #8315d6; }
+    background-color: #007BFF; }
 
 .rec_posts-title {
     text-transform: uppercase;

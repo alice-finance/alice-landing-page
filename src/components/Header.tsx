@@ -17,7 +17,7 @@ const Header = () => {
                                 <a
                                     href="https://alice-finance.app.link/kyCUVYX2SZ"
                                     target="_blank"
-                                    className="btn-download btn btn-round btn-sm-block btn-primary mr-6 my-3">
+                                    className="btn-download btn btn-round btn-sm-block btn-light mr-6 my-3">
                                     <span className="lead-3 ml-2">
                                         <i className="fab fa-google-play font-size-6" />
                                         <span className="ml-3">{t("playStore")}</span>
