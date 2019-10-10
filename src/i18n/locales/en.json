@@ -28,18 +28,18 @@
     },
     "services": {
         "title": "Features",
-        "service1.title": "Alice Dollar (ALD)",
-        "service1.desc": "ALD can be swapped with USDT, TUSD, USDC, PAX, GUSD, DAI. It unifies the whole eco-system of stable coins on each blockchain.",
+        "service1.title": "Free ALICE Tokens",
+        "service1.desc": "Get free ALICE token every 24 hours proportional to your deposited stablecoins.",
         "service2.title": "Trustless Price Oracle",
         "service2.desc": "Operators provide price feeds for each asset. They get slashed on their previously staked ALICE tokens if are not honest.",
         "service3.title": "Cross-Chain DEX",
-        "service3.desc": "With Alice Dollar as base pair, the Protocol offers a Cross-Chain DEX where assets are traded across chains.",
-        "service4.title": "Free ALICE Tokens",
-        "service4.desc": "Get free ALICE token every 24 hours proportional to your deposited stable coins."
+        "service3.desc": "With Alice Dollar as base pair, the AliceFi Protocol offers a Cross-Chain DEX where assets are traded across chains.",
+        "service4.title": "Alice Dollar (ALD)",
+        "service4.desc": "ALD can be swapped with DAI, USDT, TUSD, USDC, PAX, GUSD. It unifies the whole ecosystem of stablecoins on each blockchain."
     },
     "features": {
         "feature1.title": "Interoperability",
-        "feature1.desc": "Assets from Bitcoin, Ethereum, EOS, Binance, Cosmos and Tron are transferred in and out in a decentralized way.",
+        "feature1.desc": "Assets from Bitcoin, Ethereum, EOS, Binance, Cosmos and more are transferred in and out in a decentralized way.",
         "feature2.title": "Cross-Chain DeFi",
         "feature2.desc": "Alice Dollar, Trustless Price Oracle and Cross-Chain DEX enable DeFi across different blockchains.",
         "feature3.title": "3rd Party Apps",
@@ -47,17 +47,17 @@
     },
     "contentFirst": {
         "title": "ALD Savings of Fixed Interest Rate",
-        "desc": "AliceFi offers savings to help you increase your assets most effectively. Deposit ALD stable coins and get 8% of APR every year. There's no limit to the amount of deposit and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
+        "desc": "AliceFi offers savings to help you increase your assets most effectively. Deposit ALD stablecoins and get 8% of APR every year. There's no limit to the amount of deposits and you can withdraw any amount at any time you want! (APR : Annual Percentage Rate)",
         "getStartNow": "Download Now"
     },
     "contentSecond": {
         "title": "Loan Backed By Collateral",
-        "desc": "With AliceFi, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your ALD stable coins. Use your ALD and pay it back whenever you want!",
+        "desc": "With AliceFi, you can get a loan in less than 3 seconds. First, deposit tokens as collateral which you believe whose price will increase. Then, you will get paid for your ALD stablecoins. Use your ALD and pay it back whenever you want!",
         "getStartNow": "Download Now"
     },
     "contentThird": {
         "title": "Exchange with Reliability",
-        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets ? On AliceFi you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
+        "desc": "Your crypto assets are more important that anything else. Can you really trust centralized exchanges while depositing your assets? On AliceFi you don't have to trust anyone. Blockchain technology secures your assets from any threats.",
         "getStartNow": "Download Now"
     },
     "subscription": {
